@@ -11,8 +11,9 @@
 - 🌱 **I’m currently learning**: **React, Node.js, Express.js, MongoDB**  
 - 💻 **I’m currently working on**: A **Hotel Booking Platform** and **Interactive Portfolio**  
 - 💬 **Ask me about**: **MERN Stack, Android Development**  
-- 📫 **How to reach me**: **abdshakaet@gmail.com**   **Location**: **Chittagong,Banglaadesh** 
+- 📫 **How to reach me**: **abdshakaet@gmail.com**
 - ⚡ **Fun Fact**: **I’m funny and love learning new things!**
+- 📫 **Location**: **Chittagong,Banglaadesh** 
 
 ---
 
