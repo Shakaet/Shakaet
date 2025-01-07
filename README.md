@@ -73,4 +73,17 @@
 
 ---
 
+### 📊 GitHub Stats  
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&locale=en&theme=radical" alt="shakaet" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakaet&theme=radical" alt="shakaet streak stats" />
+</p>
+
 
