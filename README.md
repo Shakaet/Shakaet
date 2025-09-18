@@ -64,6 +64,34 @@ build a successful career in the field of web development.
 </p>
 
 ---
+### 💼 Experience & Education  
+<div align="center">
+  <h3>🎓 My Journey</h3>
+  
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h4>Experience</h4>
+        <ul>
+          <li><strong>MERN Stack Developer</strong> - Tech Company (2022-Present)</li>
+          <li><strong>Junior Web Developer</strong> - StartupXYZ (2021-2022)</li>
+          <li><strong>Intern Developer</strong> - Web Agency (2020-2021)</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top">
+        <h4>Education</h4>
+        <ul>
+          <li><strong>BSc in Computer Science</strong> - University of Chittagong</li>
+          <li><strong>Web Development Bootcamp</strong> - Online Course</li>
+          <li><strong>Android Development Certification</strong> - Google</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 
 ### 🌐 Connect with Me  
 <p align="left">
