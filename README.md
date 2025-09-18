@@ -112,6 +112,14 @@ build a successful career in the field of web development.
 
 ---
 
+### 🏆 GitHub Trophies  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true&row=2&column=3" alt="shakaet" />
+</div>
+
+---
+
+
 
 ### 📊 GitHub Stats  
 <p align="left">
