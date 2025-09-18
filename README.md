@@ -86,6 +86,59 @@ build a successful career in the field of web development.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
 </p>
 
+---
 
+### 🔥 GitHub Streak  
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shakaet&theme=radical" alt="shakaet" />
+</p>
 
+---
 
+### 🏆 GitHub Trophies  
+<p align="left">
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true" alt="shakaet" />
+</p>
+
+---
+
+### 💻 Featured Projects  
+<p align="left">
+  <a href="https://github.com/shakaet/hotel-booking-platform">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakaet&repo=hotel-booking-platform&theme=radical" alt="Hotel Booking Platform" />
+  </a>
+  <a href="https://github.com/shakaet/interactive-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shakaet&repo=interactive-portfolio&theme=radical" alt="Interactive Portfolio" />
+  </a>
+</p>
+
+---
+
+### 📝 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+- [How to Build a Responsive Website with Tailwind CSS](https://shakaet.io/blog/responsive-tailwind)
+- [Getting Started with MERN Stack Development](https://shakaet.io/blog/mern-stack-guide)
+- [10 JavaScript Tips for Better Code Quality](https://shakaet.io/blog/javascript-tips)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📈 Activity Graph  
+<p align="left">
+  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=shakaet&theme=radical" alt="shakaet's Activity Graph" />
+</p>
+
+---
+
+### 🌟 Quote of the Day  
+<p align="center">
+  <i>"The only way to do great work is to love what you do." - Steve Jobs</i>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakaet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shakaet?style=flat-square" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/shakaet?style=flat-square" alt="GitHub Stars" />
+</div>
