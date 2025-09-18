@@ -130,6 +130,17 @@ build a successful career in the field of web development.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
 </p>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakaet&style=flat-square&color=41F27F" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shakaet?style=flat-square&color=41F27F" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/shakaet?style=flat-square&color=41F27F" alt="GitHub Stars" />
+</div>
+
+<div align="center">
+  <h3>💖 Thanks for visiting my profile!</h3>
+  <p>Feel free to connect and collaborate on exciting projects!</p>
+</div>
+
 
 
 
