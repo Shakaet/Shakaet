@@ -142,8 +142,8 @@ build a successful career in the field of web development.
       <td width="50%" valign="top">
         <h4>Experience</h4>
         <ul>
-          <li><strong>MERN Stack Developer</strong> - World Wise Scholars (2025(September)-Present)</li>
-          <li><strong>Full Stack Web Developer</strong> - Infinoid Technologies (2025(march)-2025(june)</li>
+          <li><strong>MERN Stack Developer</strong> - World Wise Scholars (2025 (September) - Present)</li>
+          <li><strong>Full Stack Web Developer</strong> - Infinoid Technologies (2025 (march) - 2025 (june)</li>
           <li><strong>Intern Developer</strong> - Stamasoft Technologies (2024-2025)</li>
         </ul>
       </td>
