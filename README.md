@@ -64,6 +64,7 @@ build a successful career in the field of web development.
 </p>
 
 ---
+
 ### 💼 Experience & Education  
 <div align="center">
   <h3>🎓 My Journey</h3>
@@ -73,7 +74,7 @@ build a successful career in the field of web development.
       <td width="50%" valign="top">
         <h4>Experience</h4>
         <ul>
-          <li><strong>MERN Stack Developer</strong> - World Wide Scholars (2025(September)-Present)</li>
+          <li><strong>MERN Stack Developer</strong> - World Wise Scholars (2025(September)-Present)</li>
           <li><strong>Full Stack Web Developer</strong> - Infinoid Technology (2025(march)-2025(june)</li>
           <li><strong>Intern Developer</strong> - Stamasoft Technology (2024-2025)</li>
         </ul>
@@ -103,6 +104,14 @@ build a successful career in the field of web development.
 </p>
 
 ---
+
+### 📈 Activity Graph  
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakaet&theme=radical&hide_border=true" alt="shakaet's Activity Graph" />
+</div>
+
+---
+
 
 ### 📊 GitHub Stats  
 <p align="left">
