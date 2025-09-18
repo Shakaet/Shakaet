@@ -10,6 +10,8 @@ build a successful career in the field of web development.
 
 ---
 
+
+
 ### 🙋‍♂️ About Me  
 - 🌱 **I’m currently learning**: **React, Node.js, Express.js, MongoDB**  
 - 💻 **I’m currently working on**: A **Hotel Booking Platform** and **Interactive Portfolio**  
@@ -22,6 +24,8 @@ build a successful career in the field of web development.
 
 ---
 
+
+
 ## 🚀 I’m Exploring  
 
 - ⚡ **Next.js** – building fast, production-ready React apps with SSR and routing  
@@ -32,6 +36,8 @@ build a successful career in the field of web development.
 
 ---
 
+
+
 ### 🔭 Current Activities  
 
 - 🌱 Learning **Next.js**, **TypeScript**, and **Redux Toolkit**  
@@ -39,6 +45,8 @@ build a successful career in the field of web development.
 - 🎯 Exploring **Mongoose aggregation pipelines**  
 - 🚀 Building projects to strengthen **full-stack development skills**  
 - 🔐 Researching **JWT authentication & Firebase security**  
+
+
 
 
 ## 🧰 My Tech Stack
@@ -51,6 +59,7 @@ build a successful career in the field of web development.
 
 
 ---
+
 
 
 ### 🛠️ Skills  
@@ -97,6 +106,8 @@ build a successful career in the field of web development.
 </p>
 
 ---
+
+
 
 ### 💼 Experience & Education  
 <div align="center">
