@@ -73,17 +73,16 @@ build a successful career in the field of web development.
       <td width="50%" valign="top">
         <h4>Experience</h4>
         <ul>
-          <li><strong>MERN Stack Developer</strong> - Tech Company (2022-Present)</li>
-          <li><strong>Junior Web Developer</strong> - StartupXYZ (2021-2022)</li>
-          <li><strong>Intern Developer</strong> - Web Agency (2020-2021)</li>
+          <li><strong>MERN Stack Developer</strong> - World Wide Scholars (2025(September)-Present)</li>
+          <li><strong>Full Stack Web Developer</strong> - Infinoid Technology (2025(march)-2025(june)</li>
+          <li><strong>Intern Developer</strong> - Stamasoft Technology (2024-2025)</li>
         </ul>
       </td>
       <td width="50%" valign="top">
         <h4>Education</h4>
         <ul>
-          <li><strong>BSc in Computer Science</strong> - University of Chittagong</li>
-          <li><strong>Web Development Bootcamp</strong> - Online Course</li>
-          <li><strong>Android Development Certification</strong> - Google</li>
+          <li><strong>BSc in Computer Science</strong> -Premier University</li>
+          <li><strong>Web Development Bootcamp</strong> - Programming Hero</li>
         </ul>
       </td>
     </tr>
@@ -117,4 +116,4 @@ build a successful career in the field of web development.
 
 
 
-amar je code ache ta as it is rekhe aro code bariye attractive code dao
+
