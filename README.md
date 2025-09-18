@@ -13,9 +13,12 @@ build a successful career in the field of web development.
 
 
 ### 🙋‍♂️ About Me  
-- 🌱 **I’m currently learning**: **React, Node.js, Express.js, MongoDB**  
-- 💻 **I’m currently working on**: A **Hotel Booking Platform** and **Interactive Portfolio**  
-- 💬 **Ask me about**: **MERN Stack, Android Development**  
+- 🌱 Learning **Next.js**, **TypeScript**, and **Redux Toolkit**  
+- 🛠 Working on an **Educational Website for Business**  
+- 🎯 Exploring **Mongoose aggregation pipelines**  
+- 🚀 Building projects to strengthen **full-stack development skills**  
+- 🔐 Researching **JWT authentication & Firebase security**    
+- 💬 **Ask me about**: **MERN Stack**  
 - 📫 **How to reach me**: **abdshakaet@gmail.com**
 - ⚡ **Fun Fact**: **I’m funny and love learning new things!**
 - 📫 **Location**: **Chittagong,Banglaadesh** 
@@ -35,16 +38,6 @@ build a successful career in the field of web development.
 - 🎨 **Framer Motion** – adding smooth animations to modern UIs  
 
 ---
-
-
-
-### 🔭 Current Activities  
-
-- 🌱 Learning **Next.js**, **TypeScript**, and **Redux Toolkit**  
-- 🛠 Working on an **Educational Website for Business**  
-- 🎯 Exploring **Mongoose aggregation pipelines**  
-- 🚀 Building projects to strengthen **full-stack development skills**  
-- 🔐 Researching **JWT authentication & Firebase security**  
 
 
 ## 🧰 My Tech Stack  
