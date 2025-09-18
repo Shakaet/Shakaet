@@ -122,18 +122,19 @@ build a successful career in the field of web development.
 
 
 ### 📊 GitHub Stats  
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&locale=en&theme=radical" alt="shakaet" />
 </p>
 
-<p align="left">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
 </p>
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=shakaet&style=flat-square&color=41F27F" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/shakaet?style=flat-square&color=41F27F" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/shakaet?style=flat-square&color=41F27F" alt="GitHub Stars" />
+  
 </div>
 
 <div align="center">
