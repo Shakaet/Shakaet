@@ -1,5 +1,8 @@
 
-![Full Stack GIF](https://wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)
+<p align="center">
+  <img src="https://wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Full Stack Development" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Abdulla Al Shakaet</h1>
