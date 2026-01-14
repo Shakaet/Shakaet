@@ -189,9 +189,7 @@ build a successful career in the field of web development.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true&row=1&column=3" alt="shakaet" />
 </div>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true&row=1&column=3&cache_seconds=86400" />
-</p>
+
 
 
 ---
@@ -202,16 +200,12 @@ build a successful career in the field of web development.
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&locale=en&theme=radical" alt="shakaet" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&theme=radical&cache_seconds=86400" />
-</p>
+
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&layout=compact&theme=radical&cache_seconds=86400" />
-</p>
+
 
 
 <div align="center">
