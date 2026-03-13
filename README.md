@@ -18,7 +18,7 @@ build a successful career in the field of web development.
 
 
 ### 🙋‍♂️ About Me  
-- 🌱 Learning **Next.js**, **TypeScript**, and **Redux Toolkit**  
+- 🌱 Learning **Devops**, **System Design**  
 - 🛠 Working on an **Educational Website for Business**  
 - 🎯 Exploring **Mongoose aggregation pipelines**  
 - 🚀 Building projects to strengthen **full-stack development skills**  
