@@ -102,30 +102,6 @@
 
 ---
 
-### 🌟 Featured Projects
-
-> _Add your best 2–4 projects here for maximum impact — recruiters check this first!_
-
-<table>
-<tr>
-<td width="50%">
-
-**[Project Name](#)**
-Short one-line description of what it does and the problem it solves.
-`React` `Node.js` `MongoDB`
-
-</td>
-<td width="50%">
-
-**[Project Name](#)**
-Short one-line description of what it does and the problem it solves.
-`Next.js` `TypeScript` `Firebase`
-
-</td>
-</tr>
-</table>
-
----
 
 ### 🌐 Connect with Me
 
