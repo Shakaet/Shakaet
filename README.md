@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:6DA55F&height=200&section=header&text=Abdulla%20Al%20Shakaet&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" />
+<img src="https://wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Full Stack Development" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;I+build+clean%2C+responsive+web+apps;Always+learning+something+new" alt="Typing SVG" />
 
