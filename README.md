@@ -1,226 +1,181 @@
+<div align="center">
 
-<p align="center">
-  <img src="https://wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="Full Stack Development" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:6DA55F&height=200&section=header&text=Abdulla%20Al%20Shakaet&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20from%20Bangladesh&descAlignY=55&descSize=18" />
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;Open+Source+Enthusiast;I+build+clean%2C+responsive+web+apps;Always+learning+something+new" alt="Typing SVG" />
 
-
-<h1 align="center">Hi 👋, I'm Abdulla Al Shakaet</h1>
-<h3 align="center">A passionate Mern Stack Developer from Bangladesh,I describe myself as a passionate
-developer who loves coding, Open Source, and the web platform, passion for responsive website design. Would like to
-build a successful career in the field of web development.
-</h3>
-
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk0NW1ucHQ0aWFkcWJzcjEyMXN4aG9oN3JxNWM2b3lmbTlsdzh2ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lP8xu5t2DLGG045H8F/giphy.webp">
+</div>
 
 ---
 
+### 🙋‍♂️ About Me
 
-
-### 🙋‍♂️ About Me  
-- 🌱 Learning **Devops**, **System Design**  
-- 🛠 Working on an **Educational Website for Business**  
-- 🎯 Exploring **Mongoose aggregation pipelines**  
-- 🚀 Building projects to strengthen **full-stack development skills**  
-- 🔐 Researching **JWT authentication & Firebase security**    
-- 💬 **Ask me about**: **MERN Stack**  
-- 📫 **How to reach me**: **abdshakaet@gmail.com**
-- ⚡ **Fun Fact**: **I’m funny and love learning new things!**
-- 📫 **Location**: **Chittagong,Banglaadesh** 
-
----
+- 🌱 Currently learning **DevOps** and **System Design**
+- 🛠 Working on an **Educational Website for Business**
+- 🎯 Exploring **Mongoose aggregation pipelines**
+- 🔐 Researching **JWT authentication & Firebase security**
+- 🚀 Building projects to sharpen my **full-stack development skills**
+- 💬 Ask me about **the MERN Stack**
+- 📫 Reach me at **abdshakaet@gmail.com**
+- 📍 Based in **Chittagong, Bangladesh**
+- ⚡ Fun fact: **I'm funny and love learning new things!**
 
 ---
 
+### 🚀 Currently Exploring
 
-
-## 🚀 I’m Exploring  
-
-- ⚡ **Next.js** – building fast, production-ready React apps with SSR and routing  
-- 💡 **TypeScript** – writing safer, scalable JavaScript with strong typing  
-- 🗄️ **Mongoose & Aggregation** – modeling data and handling complex MongoDB queries  
-- 🔄 **Redux Toolkit** – managing state efficiently in modern React apps  
-- 🎨 **Framer Motion** – adding smooth animations to modern UIs  
+| Tech | Why |
+|---|---|
+| ⚡ **Next.js** | Fast, production-ready React apps with SSR & routing |
+| 💡 **TypeScript** | Safer, scalable JavaScript with strong typing |
+| 🗄️ **Mongoose & Aggregation** | Modeling data and complex MongoDB queries |
+| 🔄 **Redux Toolkit** | Efficient state management in modern React apps |
+| 🎨 **Framer Motion** | Smooth animations for modern UIs |
 
 ---
 
+### 🧰 Tech Stack
 
-## 🧰 My Tech Stack  
+**Frontend**
 
 <p align="left">
-  
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux_Toolkit-593D88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lottie-00C4CC?style=for-the-badge&logo=lottie&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Toastify-FF8800?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/SweetAlert2-FF5F5F?style=for-the-badge&logoColor=white" />
-  
-  <!-- Backend -->
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-  <img src="https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white" />
-  
-  <!-- Tools -->
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
-  <img src="https://img.shields.io/badge/Autoprefixer-DD3735?style=for-the-badge&logo=autoprefixer&logoColor=white" />
-  
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-593D88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-black?style=for-the-badge&logo=framer&logoColor=blue" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 </p>
 
+**Backend**
 
-
-
-### 🛠️ Skills  
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
-  </a> 
-</p>
-
----
-
-
-
-### 💼 Experience & Education  
-<div align="center">
-  <h3>🎓 My Journey</h3>
-  
-  <table>
-    <tr>
-      <td width="50%" valign="top">
-        <h4>Experience</h4>
-        <ul>
-           <li><strong>Full Stack Developer</strong> - Classic it & Sky Mart Ltd (2025 (November) - Present)</li>
-          <li><strong>Full Stack Developer</strong> - World Wise Scholars (2025 (September) - 2026(March)</li>
-          <li><strong>Full Stack Developer</strong> - Infinoid Technologies (2025 (march) - 2025 (june)</li>
-          <li><strong>Intern Developer</strong> - Stamasoft Technologies (2024-2025)</li>
-        </ul>
-      </td>
-      <td width="50%" valign="top">
-        <h4>Education</h4>
-        <ul>
-          <li><strong>BSc in Computer Science</strong> -Premier University</li>
-          <li><strong>Web Development Bootcamp</strong> - Programming Hero</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-
-### 🌐 Connect with Me  
 <p align="left">
-  <a href="https://linkedin.com/in/shakaet" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shakaet" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/abdulla.al.shakaet" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="abdulla al shakaet" height="30" width="40" />
-  </a>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Axios-671ddf?style=for-the-badge&logo=axios&logoColor=white" />
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+**Tools & Deployment**
+
+<p align="left">
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
 </p>
 
 ---
 
-### 📈 Activity Graph  
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shakaet&theme=radical&hide_border=true" alt="shakaet's Activity Graph" />
-</div>
+### 💼 Experience & Education
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Experience**
+- 🏢 **Full Stack Developer** — Classic IT & Sky Mart Ltd *(Nov 2025 – Present)*
+- 🏢 **Full Stack Developer** — World Wise Scholars *(Sep 2025 – Mar 2026)*
+- 🏢 **Full Stack Developer** — Infinoid Technologies *(Mar 2025 – Jun 2025)*
+- 🏢 **Intern Developer** — Stamasoft Technologies *(2024 – 2025)*
+
+</td>
+<td width="50%" valign="top">
+
+**Education**
+- 🎓 **BSc in Computer Science** — Premier University
+- 🎓 **Web Development Bootcamp** — Programming Hero
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏆 GitHub Trophies  
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true&row=1&column=3" alt="shakaet" />
-</div>
+### 🌟 Featured Projects
 
+> _Add your best 2–4 projects here for maximum impact — recruiters check this first!_
 
+<table>
+<tr>
+<td width="50%">
+
+**[Project Name](#)**
+Short one-line description of what it does and the problem it solves.
+`React` `Node.js` `MongoDB`
+
+</td>
+<td width="50%">
+
+**[Project Name](#)**
+Short one-line description of what it does and the problem it solves.
+`Next.js` `TypeScript` `Firebase`
+
+</td>
+</tr>
+</table>
 
 ---
 
+### 🌐 Connect with Me
 
+<p align="left">
+<a href="https://linkedin.com/in/shakaet" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://fb.com/abdulla.al.shakaet" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="mailto:abdshakaet@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
 
-### 📊 GitHub Stats  
+---
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&locale=en&theme=radical" alt="shakaet" />
+<img src="https://github-readme-stats.vercel.app/api?username=shakaet&show_icons=true&locale=en&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" width="49%" />
 </p>
-
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shakaet&show_icons=true&locale=en&layout=compact&theme=radical" alt="shakaet" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakaet&theme=radical&hide_border=true" width="60%" />
 </p>
 
+### 📈 Activity Graph
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shakaet&theme=radical&hide_border=true" />
+</p>
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=shakaet&theme=radical&no-frame=true&no-bg=true&row=1&column=4" />
+</p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shakaet&style=flat-square&color=41F27F" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shakaet?style=flat-square&color=41F27F" alt="GitHub Followers" />
-  
+
+<img src="https://komarev.com/ghpvc/?username=shakaet&style=for-the-badge&color=41F27F" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/shakaet?style=for-the-badge&color=41F27F" alt="GitHub Followers" />
+
+<br/><br/>
+
+### 💖 Thanks for visiting my profile!
+_Feel free to connect and collaborate on exciting projects!_
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DA55F,100:38B2AC&height=100&section=footer" />
+
 </div>
-
-<div align="center">
-  <h3>💖 Thanks for visiting my profile!</h3>
-  <p>Feel free to connect and collaborate on exciting projects!</p>
-</div>
-
-
-
-
-
