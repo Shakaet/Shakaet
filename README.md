@@ -11,9 +11,9 @@
 ### 🙋‍♂️ About Me
 
 - 🌱 Currently learning **DevOps** and **System Design**
-- 🛠 Working on an **Educational Website for Business**
-- 🎯 Exploring **Mongoose aggregation pipelines**
-- 🔐 Researching **JWT authentication & Firebase security**
+- 🛠 Working on an **Garments ERP Software**
+- 🎯 Exploring **nestJs**
+- 🔐 Researching **system design**
 - 🚀 Building projects to sharpen my **full-stack development skills**
 - 💬 Ask me about **the MERN Stack**
 - 📫 Reach me at **abdshakaet@gmail.com**
